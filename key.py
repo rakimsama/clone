@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-os.system('python dang_enc.py')
+os.system('python 1.2.py')
